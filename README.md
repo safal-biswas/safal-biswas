@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Safal Kumar Biswas</h1>
-<h3 align="center">🧠 Problem Solver | 🚀 Full Stack Developer </h3>
+<h3 align="center">🧠 Problem Solver | ⚡ Embedded Enthusiast | 🚀 Full Stack Developer</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Sc. in Electrical & Computer Engineering from **RUET**
-- 💼 Former Web Developer Intern at **CodeSoft** & **CreativeItem**
-- 🔍 Currently exploring **Full-Stack Projects** and **Freelancing**
-- 🧠 Love solving problems on **Codeforces** and **LeetCode**
-- 🎯 Goal: Land a top role in the **tech industry** with innovation and passion
+- 🎓 Graduated with a B.Sc. in **Electrical & Computer Engineering** from **RUET**
+- 💻 Web Development Intern at **CodSoft** and **CreativeItem**
+- ⚙️ Skilled in both **software** and **hardware** — from building full-stack web apps to developing Arduino-based smart devices
+- 🔧 Passionate about **embedded systems**, **sensor integration**, and **automation**
+- 🧩 Active **competitive programmer** on **Codeforces** and **LeetCode**
+- 🎯 Currently focusing on real-world **full-stack projects** and **freelance opportunities**
+- 🚀 Goal: Innovate at the intersection of **electronics** and **software** in the tech industry
 
 ---
 
@@ -25,6 +27,16 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=Mathworks&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+
+#### 🔌 Microcontrollers & Sensors:
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat&logo=espressif&logoColor=white)
+![Ultrasonic Sensor](https://img.shields.io/badge/Ultrasonic%20Sensor-555555?style=flat&logo=sonarcloud&logoColor=white)
+![IR Sensor](https://img.shields.io/badge/IR%20Sensor-880000?style=flat&logo=raspberrypi&logoColor=white)
+![Servo Motor](https://img.shields.io/badge/Servo%20Motor-FF8C00?style=flat&logo=eclipsemosquitto&logoColor=white)
+![7-Segment Display](https://img.shields.io/badge/7--Segment%20Display-222222?style=flat&logoColor=white)
+![Digital ICs](https://img.shields.io/badge/Digital%20ICs%207447/2816-4B0082?style=flat&logoColor=white)
 
 #### 🧩 Frontend:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)

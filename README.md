@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safal Kumar Biswas</h1>
-<h3 align="center">🧠 Problem Solver | ⚡ Embedded Enthusiast | 🚀 Full Stack Developer</h3>
+<h3 align="center">🧠 Problem Solver | ⚡ Electronics Enthusiast | 🚀 Full Stack Developer</h3>
 
 ---
 
